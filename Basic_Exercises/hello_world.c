@@ -3,6 +3,6 @@ int main()
 {
     int num = 5;
 
-    printf("Hello, World!\n");
+    printf("Hello SoftUni!\n");
     return 0;
 }
