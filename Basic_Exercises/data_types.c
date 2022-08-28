@@ -14,7 +14,7 @@ int main()
     float grade = 2.5; // %f to display
     double grade2 = 2.5; // more accurate than float %lf to display
     bool e = true;
-    printf("%s%c, your grade is: %0.2f\n", name, letter, grade); // use 0.x to determine the number of digits displayed
+    printf("%s%c, your grade is: %8.2f\n", name, letter, grade); // use %.x to determine the number of digits displayed, %y.x y is for field width
     printf("%llu", num3);
     return 0;
 }
