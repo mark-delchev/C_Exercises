@@ -7,6 +7,8 @@ int main()
     char f = 120; // %d to display and %c ASCII
     unsigned long long num3 = 18446744073709551615U; // %llu to display
     unsigned int num2 = 123333; // %u to sidplay
+    short short_num = 12333; // %d to display
+    unsigned short i = 1; // %d to displat
     char name[] = "Ivan";// %s to display
     char letter = 'B';// %c to display
     float grade = 2.5; // %f to display
