@@ -1,0 +1,4 @@
+to run c files with math.h compile with 
+gcc filename.c -lm
+and run with
+./a.out
