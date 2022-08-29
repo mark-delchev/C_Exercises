@@ -6,6 +6,6 @@ int main()
     printf("What is your full name? ");
     scanf("%s", name);
     scanf("%s", family_name);
-    printf("%s %s", name, family_name);
+    printf("Hello %s %s!", name, family_name);
     return 0;
 }
